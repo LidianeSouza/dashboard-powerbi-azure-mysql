@@ -1,8 +1,9 @@
+# 📊 Integração de Dados com MySQL Azure e Power BI – Desafio DIO
+
 ![MySQL](https://img.shields.io/badge/MySQL-Azure-blue)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
 ![Power Query](https://img.shields.io/badge/Power%20Query-ETL-green)
-
-# 📊 Integração de Dados com MySQL Azure e Power BI – Desafio DIO
+![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
 
 Este repositório apresenta a solução do desafio prático da **DIO**, no qual explorei a integração de dados via **MySQL no Azure**, realizei transformações utilizando **Power Query**, e desenvolvi um dashboard interativo com **Power BI**, focado na análise de projetos, colaboradores, departamentos e alocação de horas.
 
@@ -42,14 +43,14 @@ O dashboard desenvolvido permite:
 
 ## 🖼️ Galeria de Prints
 
-> 🔍 **Dica**: As imagens abaixo são **clicáveis**!  
-> Clique em qualquer miniatura para **ver em tamanho real** e analisar os detalhes do projeto.
+> 🔍 **Nota**: As imagens abaixo são **interativas**!  
+> Clique em qualquer miniatura para **ampliar** e visualizar os detalhes em **alta resolução**.
 
-| 📌 **Etapa**                      | 🖼️ **Miniatura Clicável**                                                                                     | 📝 **Descrição**                              |
-|----------------------------------|----------------------------------------------------------------------------------------------------------------|----------------------------------------------|
-| 📊 **Dashboard Final**           | [<img src="./assets/dashboard-preview.png" width="250"/>](./assets/dashboard-preview.png)                     | **Visualização final no Power BI**           |
-| ☁️ **Instância MySQL na Azure**  | [<img src="./assets/azure-instance1.png" width="250"/>](./assets/azure-instance1.png)<br>[<img src="./assets/azure-instance2.png" width="250"/>](./assets/azure-instance2.png) | **Configuração da instância no portal**      |
-| 💻 **Conexão no MySQL Workbench**| [<img src="./assets/workbench-connection1.png" width="250"/>](./assets/workbench-connection1.png)<br>[<img src="./assets/workbench-connection2.png" width="250"/>](./assets/workbench-connection2.png) | **Teste de conexão com a base de dados**     |
+| 📌 **Etapa**                      | 🖼️ **Miniatura Clicável**                                                                                     | 📝 **Descrição**                                      |
+|----------------------------------|----------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|
+| 📊 **Dashboard Final**           | [<img src="./assets/dashboard-preview.png" width="250"/>](./assets/dashboard-preview.png)                     | Exibição final do dashboard interativo no Power BI     |
+| ☁️ **Instância MySQL na Azure**  | [<img src="./assets/azure-instance1.png" width="250"/>](./assets/azure-instance1.png)<br>[<img src="./assets/azure-instance2.png" width="250"/>](./assets/azure-instance2.png) | Criação e configuração da instância de banco na Azure |
+| 💻 **Conexão no MySQL Workbench**| [<img src="./assets/workbench-connection1.png" width="250"/>](./assets/workbench-connection1.png)<br>[<img src="./assets/workbench-connection2.png" width="250"/>](./assets/workbench-connection2.png) | Validação da conexão com o banco de dados remoto       |
 
 
 ## 📎 Desafio Original
@@ -96,9 +97,7 @@ Esse desafio foi essencial para consolidar conhecimentos em **MySQL, cloud e BI*
 
 Me chamo **Lidiane**, sou entusiasta da área de dados e apaixonada por transformar complexidade em clareza. Este projeto representa minha dedicação e evolução como profissional em formação.
 
----
-
 💼 **Procurando talentos na área de dados?**  
-Entre em contato comigo via [LinkedIn](https://www.linkedin.com/in/lidianesouza-88)
+Entre em contato comigo via [LinkedIn](https://www.linkedin.com/in/lidiane-souza88)
 
 ---
